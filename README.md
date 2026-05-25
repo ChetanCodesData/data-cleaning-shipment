@@ -13,13 +13,13 @@ This project focuses on cleaning a shipment dataset using PostgreSQL.
 * Standardized text formatting using INITCAP() and UPPER()
 * Fixed negative values using ABS()
 * Calculated transit days
-* Detected outliers using IQR method
+
 
 ## Tools Used
 
 * PostgreSQL
 * SQL
-* Excel
+
 
 ## Files Included
 
